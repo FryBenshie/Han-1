@@ -67,7 +67,7 @@ export default function Home() {
             <ul className="list-disc list-inside text-slate-600 space-y-2 ml-2">
               <li>Installed CCTV systems and configured DVR operations.</li>
               <li>Performed mobile hardware/software troubleshooting and network repairs.</li>
-              <li>Assembled PCs according to specific user requirements.</li>
+              <li>Assembled PCs according to specific User requirements.</li>
             </ul>
           </div>
         </section>
